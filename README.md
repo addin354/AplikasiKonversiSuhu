@@ -1,5 +1,5 @@
-# Aplikasi KonversiSuhu 
-# ===================
+# Aplikasi Konversi Suhu 
+
 Aplikasi KonversiSuhu adalah aplikasi desktop berbasis Java yang dapat mengonversi suhu antar skala:
 Celcius, Fahrenheit, Reamur, dan Kelvin.
 Dibuat dengan antarmuka grafis Java Swing, aplikasi ini mendukung konversi dua arah antar skala suhu.
